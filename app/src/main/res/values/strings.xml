@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Salary Calculator</string>
+    <string name="basic_salary">Basic Salary :</string>
+    <string name="medical_percentage">Medical : </string>
+    <string name="house_rent">House Rent : </string>
+    <string name="total_salary">Total Salary : </string>
+    <string name="calculate_button">Calculate</string>
+    <string name="btn_reset">Reset</string>
+    <string name="basic_salaryet">put amount</string>
+    <string name="medical_percentageet">put percentage</string>
+    <string name="house_rentet">put percentage</string>
+    <string name="total_salarytv">show amount</string>
+</resources>
